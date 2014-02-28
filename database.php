@@ -1,10 +1,10 @@
 <?php
 
 class db {
-	private $mysql_host = "sql210.byethost9.com";
-	private $mysql_user = "b9_14411697";
-	private $mysql_password = "om99HIG6";
-	private $mysql_database = "b9_14411697_zet";
+	private $mysql_host = "";
+	private $mysql_user = "";
+	private $mysql_password = "";
+	private $mysql_database = "";
 	private $mysql_connection = null;
 
 	public function __construct($source, $email, $client, $platform){
