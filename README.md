@@ -55,3 +55,4 @@ Usage:
 
 * image `src` in HTML email
 * email address and identifier as query string
+* presence set as a 1x1 pixel transparent PNG
