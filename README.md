@@ -30,7 +30,7 @@ It's that easy.
 
 ## To Do ##
 
-For the next release I'm planning to make including it in your emails much easier, by way of class instantiation rather than a raw HTML image tag. After that, here's a list of the features I have on my mind at the moment, in no particular order:
+For the next release I'm planning to make including it in your emails much easier, by way of class instantiation rather than a raw HTML image tag. I'm also going to restructure the database class a bit, too. After that, here's a list of the features I have on my mind at the moment, in no particular order:
 
 * Track link clicks from emails
 * Use any image as the tracking image
